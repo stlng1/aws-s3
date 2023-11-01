@@ -1,2 +1,2 @@
 # aws-s3
-s3 bucket for aws-eks cluster
+s3 bucket for aws-eks cluster for stateful configurations
